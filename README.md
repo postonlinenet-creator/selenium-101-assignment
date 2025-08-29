@@ -42,5 +42,5 @@ This repository contains my submission for the LambdaTest Selenium 101 assignmen
 
 ## Test IDs
 
-- Windows 10 Chrome: [DA-WIN-2764528-1756426064835658832EDR]
+- Windows 10 Chrome: [DA-WIN-2764528-1756426064835658832EDR] 
 - macOS Catalina Safari: [DA-MAC-2764528-1756426077949618098KXP]
